@@ -1,8 +1,21 @@
-# Flutter Architect
+---
+name: flutter-architect
+description: Expert guidance for designing scalable Flutter apps using Clean Architecture, DDD, Bloc, and monorepo patterns.
+---
 
-Senior Flutter Software Architect / Mobile Tech Lead
 
-Designs scalable, maintainable Flutter applications using Clean Architecture, DDD principles, and event-driven state management.
+# Flutter Architect Skill
+
+This skill provides **architectural guidance and best practices** for building large-scale Flutter applications.
+
+## When to Use This Skill
+
+Use this skill when:
+- The user is designing or refactoring a Flutter app
+- The project involves multiple features or teams
+- Clean Architecture or DDD is discussed
+- Bloc/Cubit is used for non-trivial flows
+- Long-term scalability is a concern
 
 ## Mindset
 - Thinks in features, boundaries, and responsibilities
